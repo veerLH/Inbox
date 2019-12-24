@@ -1,0 +1,38 @@
+#adminregister
+{
+    margin-top: 10%;
+
+}
+body{
+    background-color: #d3cdcd;
+}
+#btncolor{
+background-color: #9933CC;
+}
+
+#department
+{
+    margin-top: 5%;
+}
+
+#inbtn
+{
+    width: 15%;
+    background-color:#007E33;
+}
+#edbtn
+{
+    background-color:  #0d47a1;
+}
+#delbtn
+{
+background-color:#CC0000;
+}
+.tabletext
+{
+color: black;
+font-weight: bold;
+}
+/* body{
+    font-family:Myanmar3,Yunghkio;
+} */
